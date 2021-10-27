@@ -1,0 +1,4 @@
+#Wed Oct 27 20:31:40 WAT 2021
+base.0=/home/lkmandy/Projects/testing_in_flutter/drive_me/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
